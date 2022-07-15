@@ -1,0 +1,184 @@
+.containerDados {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.MenuAreaAlinhamento {
+    margin-top: -3%;
+    position: relative;
+    top: 85px;
+
+}
+
+.listaAreaCliente {
+    position: relative;
+    top: 300px;
+    list-style: none;
+    font-weight: 700;
+    margin-left: 10%;
+}
+
+.LinkArea {
+    text-decoration: none;
+    color: #261C1A;
+}
+
+.MenuAreaCliente {
+    width: 15%;
+}
+
+.tituloDados {
+    color: #261C1A;
+    margin-top: -27px;
+    margin-left: 10%;
+    position: relative;
+    top: -300px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#line_Area_Dado {
+    width: 100%;
+    border: 1px solid;
+    margin-top: -25%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.UserAreaClienteDados {
+    position: relative;
+    top: -350px;
+    left: 5%;
+}
+
+.listaDados1 {
+    list-style: none;
+    text-align: start;
+    line-height: 110px;
+    margin-top: -30px;
+    margin-left: -30px;
+}
+
+.AreaClienteLista {
+    color: #261C1A;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.listaDados2 {
+    list-style: none;
+    text-align: start;
+    line-height: 110px;
+    margin-top: -250px;
+    top: -5px;
+    position: relative;
+    margin-left: 350px;
+
+
+}
+
+.DadosConta {
+    font-size: 19px;
+    color: #8d8d8d;
+    font-weight: 500;
+    margin-left: -30px;
+}
+
+.Dados1 {
+    list-style: none;
+    text-align: start;
+    line-height: 115px;
+    margin-top: -190px;
+}
+
+.Dados2 {
+    list-style: none;
+    text-align: start;
+    line-height: 120px;
+    position: relative;
+    top: -400px;
+    margin-left: 350px;
+}
+
+.DadosConta1{
+    margin-top: -230px;
+}
+
+.DadosConta2 {
+    margin-top: -35px;
+}
+
+.DadosConta3 {
+    margin-top: -35px;
+}
+
+
+.DadosConta4 {
+    margin-top: 110px;
+}
+
+.DadosConta5 {
+    margin-top: -37px;
+}
+
+.boxCard {
+    margin-left: 10px;
+    margin-top: -310px;
+    margin-bottom: 90px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.cardDados{
+    
+    width: 600px;
+    height: 350px;
+}
+.linhaDados{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+}
+
+@media (max-width:1000px) {
+
+    .cardDados{
+        width: 100%;
+        height: 350px;
+    }
+
+    .listaDados2 {
+        margin-left: 250px;
+    }
+
+    .Dados2{
+        margin-left: 250px;
+    }
+}
+
+
+@media (max-width:667px) {
+
+    .cardDados{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .listaDados2 {
+        margin-left: 250px;
+    }
+
+    .Dados2{
+        margin-left: 250px;
+    }
+
+    .linhaDados {
+        display: flex;
+        flex-direction: column;
+    }
+   
+}

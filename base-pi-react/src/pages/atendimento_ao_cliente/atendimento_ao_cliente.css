@@ -1,0 +1,256 @@
+.EnvieMensagem{
+    color      : #261C1A;
+    margin-top : 27px;
+    margin-left: 2%;
+    position   : relative;
+    top        : 70px;
+    font-weight: bold;
+    font-size  : 22px;
+}
+.FaleConosco{
+    color      : #261C1A;
+    font-weight: bold;
+    font-size  : 22px;
+    position   : relative;
+    text-align: left;
+    top: 15px;
+    margin-left: 2%;
+}
+
+.form-atendimento{
+margin-top: 1%;
+width: 100%;
+height: 120px;
+background: #FFFFFF;
+border: 2px solid #261C1A;
+box-sizing: border-box;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+position: relative;
+top: 80px;
+margin-left: 1%;
+}
+
+.cont1{
+    color      : #261C1A;
+    font-weight: bold;
+    font-size  : 30px;
+    position   : relative;
+    text-align: left;
+    top: 225px;
+    margin-left: 4%;
+}
+
+.whatsA{
+    margin-left: 3%;
+    position: relative;
+    top: 300px;
+}
+
+.cont2{
+    color      : #261C1A;
+    font-weight: bold;
+    font-size  : 30px;
+    position   : relative;
+    text-align: center;
+    top: 50px;
+    margin-left: -1%;
+}
+
+.emailA{
+    margin-left: 45%;
+    position: relative;
+    top: 125px;
+}
+
+.cont3{
+    color      : #261C1A;
+    font-weight: bold;
+    font-size  : 30px;
+    position   : relative;
+    text-align: end;
+    top: -270px;
+    left: -6%;
+}
+
+.telefoneA{
+    margin-left: 83%;
+    position: relative;
+    top: -30px;
+}
+.whatsA:hover{
+transform: translateY(-20px);
+}
+.emailA:hover{
+    transform: translateY(-20px);
+}
+.telefoneA:hover{
+    transform: translateY(-20px);
+}
+@media(max-width:1024px){
+    .EnvieMensagem{
+        color      : #261C1A;
+        margin-top : 7px;
+        margin-left: 2%;
+        position   : relative;
+        top        : 40px;
+        font-weight: bold;
+        font-size  : 22px;
+    }
+    .FaleConosco{
+        color      : #261C1A;
+        font-weight: bold;
+        font-size  : 22px;
+        position   : relative;
+        text-align: left;
+        top: 15px;
+        margin-left: 2%;
+    }
+    
+    .form-atendimento{
+    margin-top: 1%;
+    width: 100%;
+    height: 120px;
+    background: #FFFFFF;
+    border: 2px solid #261C1A;
+    box-sizing: border-box;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    position: relative;
+    top: 60px;
+    margin-left: 1%;
+    }
+    
+    .cont1{
+        color      : #261C1A;
+        font-weight: bold;
+        font-size  : 30px;
+        position   : relative;
+        text-align: left;
+        top: 145px;
+        margin-left: 4%;
+    }
+    
+    .whatsA{
+        margin-left: 3%;
+        position: relative;
+        top: 200px;
+    }
+    
+    .cont2{
+        color      : #261C1A;
+        font-weight: bold;
+        font-size  : 30px;
+        position   : relative;
+        text-align: center;
+        top: 25px;
+        margin-left: -1%;
+    }
+    
+    .emailA{
+        margin-left: 45%;
+        position: relative;
+        top: 77px;
+    }
+    
+    .cont3{
+        color      : #261C1A;
+        font-weight: bold;
+        font-size  : 30px;
+        position   : relative;
+        text-align: end;
+        top: -190px;
+        left: -6%;
+    }
+    
+    .telefoneA{
+        margin-left: 80%;
+        position: relative;
+        top: -10px;
+    }
+    
+}
+@media(max-width:667px){
+    .EnvieMensagem{
+        color      : #261C1A;
+        margin-top : 7px;
+        margin-left: 2%;
+        position   : relative;
+        top        : 40px;
+        font-weight: bold;
+        font-size  : 22px;
+    }
+    .FaleConosco{
+        color      : #261C1A;
+        font-weight: bold;
+        font-size  : 22px;
+        position   : relative;
+        text-align: left;
+        top: 15px;
+        margin-left: 2%;
+    }
+    
+    .form-atendimento{
+    margin-top: 1%;
+    width: 100%;
+    height: 200px;
+    background: #FFFFFF;
+    border: 2px solid #261C1A;
+    box-sizing: border-box;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    position: relative;
+    top: 60px;
+    margin-left: 1%;
+    }
+    
+    .cont1{
+        color      : #261C1A;
+        font-weight: bold;
+        font-size  : 25px;
+        position   : relative;
+        text-align: left;
+        top: 75px;
+        margin-left: 3%;
+    }
+    
+    .whatsA{
+        margin-left: 60%;
+        position: relative;
+        top: 40px;
+    }
+    
+    .cont2{
+        color      : #261C1A;
+        font-weight: bold;
+        font-size  : 25px;
+        position   : relative;
+        text-align: left;
+        top: 50px;
+        margin-left: 3%;
+    }
+    
+    .emailA{
+        margin-left: 60%;
+        position: relative;
+        top: 14px;
+    }
+    
+    .cont3{
+        color      : #261C1A;
+        font-weight: bold;
+        font-size  : 25px;
+        position   : relative;
+        text-align: left;
+        top: -20px;
+        left: 4%;
+    }
+    
+    .telefoneA{
+        margin-left: 60%;
+        position: relative;
+        top: 25px;
+    }
+    
+
+}
